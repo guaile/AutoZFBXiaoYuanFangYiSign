@@ -1,0 +1,60 @@
+2022-01-01 03:02:12.155449
+历史定位签到模式
+多人签到模式T2020211164,T2020211101,T2020211127,T2020211168
+当前IP：20.106.97.7,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-01 03:02:13
+UTC时间：2022-01-01 03:02:12
+北京时间：2022-01-01 11:02:12
+北京时间与系统时间误差：7:59:58.422431
+2022-01-01 03:02:13.577624:T2020211164签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张昊洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-01 03:02:21.256709:T2020211164签到结束
+2022-01-01 03:02:21.417782:T2020211101签到开始
+cookie文件存在
+cookie文件加载成功
+NAME钟振强
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-01 03:02:28.150942:T2020211101签到结束
+2022-01-01 03:02:28.231162:T2020211127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME郑超
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-01 03:02:35.242830:T2020211127签到结束
+2022-01-01 03:02:35.357412:T2020211168签到开始
+NAME徐森彬
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME徐森彬
+COOKIE OK
+开始签到
+NAME徐森彬
+定位 115.793931，28.660251，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.8053855621743,"lat":28.663367730554623},"formatted_address":"江西省南昌市红谷滩区五四西大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"五四西大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.793931&lat=28.660252&sfby=1
+签到成功
+2022-01-01 03:02:49.472873:T2020211168签到结束
+4人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2204759425616248832}
+2022-01-01 03:02:53.550397程序结束
+######################################################################
+
+
+
+
