@@ -1,0 +1,61 @@
+2022-01-03 16:59:20.119302
+历史定位签到模式
+多人签到模式T2020211164,T2020211101,T2020211127
+当前IP：20.124.237.41,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-03 16:59:25
+UTC时间：2022-01-03 16:59:20
+北京时间：2022-01-04 00:59:20
+北京时间与系统时间误差：7:59:54.006203
+2022-01-03 16:59:25.993881:T2020211164签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张昊洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME张昊洋
+定位 115.786609，28.656265，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79808827330479,"lat":28.659347630108333},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"S49(枫生快速路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786613&lat=28.656256&sfby=1
+签到成功
+2022-01-03 17:00:12.457310:T2020211164签到结束
+2022-01-03 17:00:12.508400:T2020211101签到开始
+cookie文件存在
+cookie文件加载成功
+NAME钟振强
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME钟振强
+定位 115.786614，28.656286，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79809206923874,"lat":28.65938156901799},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"S49(枫生快速路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786617&lat=28.65629&sfby=1
+签到成功
+2022-01-03 17:00:34.477109:T2020211101签到结束
+2022-01-03 17:00:34.516147:T2020211127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME郑超
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME郑超
+定位 115.786649，28.656104，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79812913329677,"lat":28.659193586593014},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"S49(枫生快速路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786654&lat=28.656102&sfby=1
+签到成功
+2022-01-03 17:00:50.275118:T2020211127签到结束
+3人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2208502080519077888}
+2022-01-03 17:00:56.646512程序结束
+######################################################################
+
+
+
+
