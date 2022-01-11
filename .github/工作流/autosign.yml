@@ -3,7 +3,7 @@ name: Auto ZFB XiaoYuanFangYi Sign
 on:
   push:
   schedule:
-    - cron: '30 16 * * *'
+    - cron: '0 22,23 * * *'
 
 jobs:
   sign:
